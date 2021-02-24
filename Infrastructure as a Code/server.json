@@ -1,0 +1,26 @@
+[
+    {
+      "ParameterKey": "ProjectName",
+      "ParameterValue": "Udagram"
+    },
+    {
+      "ParameterKey": "WebAppServersMinSize",
+      "ParameterValue": "2"
+    },
+    {
+      "ParameterKey": "WebAppServersMaxSize",
+      "ParameterValue": "4"
+    },
+    {
+      "ParameterKey": "WebAppServersDesiredCapacity",
+      "ParameterValue": "4"
+    },
+    {
+      "ParameterKey": "S3Repo",
+      "ParameterValue": "s3://udacity-demo-1/udacity.zip"
+    },
+    {
+      "ParameterKey": "KeyPairName",
+      "ParameterValue": "test"
+    }
+  ]
